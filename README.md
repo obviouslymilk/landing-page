@@ -12,7 +12,7 @@
 </details>
 
 ## Результат
-<img src="https://i.ibb.co/hFzTfWr/Screenshot-1.png>"/>
+<img src="https://i.ibb.co/hFzTfWr/Screenshot-1.png>"/> 
 
 ## Используемые ресурсы
 Photo by <a href="https://unsplash.com/@brave4_heart?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jigar Panchal</a> on <a href="https://unsplash.com/photos/a-large-group-of-different-colored-shapes-4udxfpPex0M?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
@@ -22,5 +22,8 @@ Photo by <a href="https://unsplash.com/@neom?utm_content=creditCopyText&utm_medi
 Photo by <a href="https://unsplash.com/@boxedwater?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Boxed Water Is Better</a> on <a href="https://unsplash.com/photos/a-lunch-box-with-a-sandwich-salad-salad-dressing-bread-olives-x93TC5gWIao?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   
 Photo by <a href="https://unsplash.com/@anniespratt?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Annie Spratt</a> on <a href="https://unsplash.com/photos/green-leaf-hX_hf2lPpUU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+Photo by <a href="https://unsplash.com/@kitzbuehel?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Kitzbühel</a> on <a href="https://unsplash.com/photos/a-field-with-a-mountain-in-the-background-71dUtaVBefY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
   
   
